@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "Productivity Enhancer",
+    "version": "1.0",
+    "permissions": ["storage", "notifications"],
+    "action": {
+      "default_popup": "popup.html"
+    }
+  }
+  
